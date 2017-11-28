@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">opencv_demo</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_camera">照相</string>
+</resources>
